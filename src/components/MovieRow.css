@@ -1,0 +1,14 @@
+.movieRow--item img
+{
+    border-radius: 50% 10% 50% 10% !important;
+    height: 180px;  width: 180px;
+    scale: 90%;
+    transition: all ease 1s;
+    cursor:pointer;
+}
+
+.movieRow--item img:hover
+{
+  scale:120%
+  
+}
